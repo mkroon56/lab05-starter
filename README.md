@@ -49,16 +49,16 @@ Pildi saad vastuse juurde lisada nii: `![kirjeldus](pildid/faili-nimi.jpg)`
 
 | # | Küsimus | Vastus |
 |---|---------|--------|
-| 1 | Sinu laua pesa number | |
-| 2 | Mis kapp? | |
-| 3 | Patch-paneeli rida ja pesa 📷 | |
-| 4 | Millise seadme külge kaabel paneelist edasi läheb? | |
-| 5 | Ruuteri mudel ja kleebise number | |
-| 6 | Kommutaatori portide arv, tulede värv | |
+| 1 | Sinu laua pesa number |301 23 |
+| 2 | Mis kapp? |K1 |
+| 3 | Patch-paneeli rida ja pesa 📷 |Esimene rida pesa 23 |
+| 4 | Millise seadme külge kaabel paneelist edasi läheb? |switch |
+| 5 | Ruuteri mudel ja kleebise number |Cisco 1941 Series 356 |
+| 6 | Kommutaatori portide arv, tulede värv |24 porti tulede värv on kollane |
 | 7 | Konsoolikaabli otsad 📷 | |
-| 8 | Mis on kirjutatud MODE-nupu tulukeste kõrvale? | |
-| 9 | Mille poolest erinevad konsoolikaabli ja patch-kaabli otsad? | |
-| 10 | Kaabli kategooria | |
+| 8 | Mis on kirjutatud MODE-nupu tulukeste kõrvale? |SYST, RPS,MSTR,STAT,DPLX,SPED,STCK |
+| 9 | Mille poolest erinevad konsoolikaabli ja patch-kaabli otsad? |Patch-kaabel on interneti jaoks. Juhtmed mõlemas otsas on samapidi. Konsoolikaabel on seadistamiseks. Juhtmed on ühes otsas tagurpidi ja arvuti ots on USB. |
+| 10 | Kaabli kategooria |CAT 6 |
 
 📷 = lisa pilt kausta `pildid/`
 
