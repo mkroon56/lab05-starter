@@ -23,25 +23,25 @@ Pildi saad vastuse juurde lisada nii: `![kirjeldus](pildid/faili-nimi.jpg)`
 ▶ Vaata enne alustamist õpilase tehtud videot: [Etherneti kaabel](https://docs.google.com/videos/d/1W-9WRo0zMHX_hX0K1EcwqMRkdQgW6V030loZYMlfUy0/play?usp=sharing)
 
 **Rühm (nimed):**
->
+> Markus  
 
 **Mina krimpisin otsa (1 või 2 / kaabel nr):**
->
+> Koik
 
 **Foto testerist (kõik 8 tulukest põlevad):**
->
+> Piltide all nimega tester
 
 **1. Miks on sooned paarikaupa keerdus?**
->
+>Sooned on paarikaupa keerdus müra ja häirete vähendamiseks
 
 **2. Mis juhtuks, kui üks ots oleks T-568A ja teine T-568B?**
->
+>Kui kaabli üks ots on ühendatud standardi T-568A järgi ja teine T-568B järgi, saad sa ristkaabli
 
 **3. Mis OSI kihil sinu kaabel töötab ja mis andmeühikut see kannab?**
->
+>Kaabel tootab esimesel kihil ja andmeyhikud on bitid
 
 **4. Mis läks kaabli tegemisel valesti ja kuidas sa selle parandasid?**
->
+>Kaabli otsa lükates nihkusid juhtmed paigast.  Lõikasin otsa maha, koorisin uuesti, sirgendasin sooned hoolikalt näppude vahel õigesse järjekorda
 
 ---
 
